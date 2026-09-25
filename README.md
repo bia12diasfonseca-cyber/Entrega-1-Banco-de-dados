@@ -8,7 +8,7 @@
 - **Nomes dos alunos e RGM:**
 - Beatriz Fonseca Dias 47272139
 - Vitória Aparecida de Assis Silva 46625909
-- Letícia Santos da Silva 47551976
+- Letícia Santos da Silva 4755197
 
 ---
 
